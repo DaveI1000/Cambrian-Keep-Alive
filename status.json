@@ -1,21 +1,21 @@
 {
-  "checked_at": "2026-11-08T11:54:48+00:00",
+  "checked_at": "2026-11-08T21:07:57+00:00",
   "projects": [
     {
       "name": "Cambrian Rota",
-      "checked_at": "2026-11-08T11:54:48+00:00",
+      "checked_at": "2026-11-08T21:07:57+00:00",
       "ok": true,
-      "status": 0,
-      "update_count": 12,
-      "last_updated": "2026-11-08T11:54:48+00:00"
+      "status": 1,
+      "update_count": 13,
+      "last_updated": "2026-11-08T21:07:57+00:00"
     },
     {
       "name": "Cambrian TSR",
-      "checked_at": "2026-11-08T11:54:48+00:00",
+      "checked_at": "2026-11-08T21:07:57+00:00",
       "ok": true,
-      "status": 0,
-      "update_count": 12,
-      "last_updated": "2026-11-08T11:54:48+00:00"
+      "status": 1,
+      "update_count": 13,
+      "last_updated": "2026-11-08T21:07:57+00:00"
     }
   ]
 }
